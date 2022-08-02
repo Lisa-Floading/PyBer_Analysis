@@ -1,5 +1,4 @@
 # PyBer_Challenge
-
 ## Overview
 All of the PyBer rideshare data from January to early May of 2019 for PyBer is analyzed in order to examine how ridesharing is used in three different areas: rural, suburban and urban. Create summary DataFrame of ride-sharing data by city type using Python and Pandas. Using Matplotlib, create a multiple-line graph that shows the total weekly fares for each city type. 
 
